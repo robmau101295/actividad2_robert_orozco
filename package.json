@@ -1,0 +1,16 @@
+{
+  "name": "miapp-nodejs-ro",
+  "version": "1.0.0",
+  "description": "mi app",
+  "author": "Robert Orozco <mauricio_101295@outlook.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
